@@ -1,6 +1,6 @@
 {
   "name": "@shagital/adonisjs-logger-papertrail",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Papertrail driver for Adonis Logger",
   "main": "index.js",
   "scripts": {

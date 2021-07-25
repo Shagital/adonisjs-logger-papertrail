@@ -52,7 +52,7 @@ Logger.transport('papertrail').info('this will log using the papertrail transpor
 ```
 
 ### Env variables
-
+- Papertrail details can be gotten from https://papertrailapp.com/account/destinations
 `Papertrail` driver relies on the following Env variables:
 - `PAPERTRAIL_HOST`
 - `PAPERTRAIL_PORT`
