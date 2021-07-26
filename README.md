@@ -1,4 +1,7 @@
 # Adonis Logger Papertrail <img src="https://papertrailapp.com/favicon.ico" alt="Papertrail icon" width="25px" height="25px">
+![npm (scoped)](https://img.shields.io/npm/v/@shagital/adonisjs-logger-papertrail)
+![NPM](https://img.shields.io/npm/l/@shagital/adonisjs-logger-papertrail)
+
 Version [for **Adonis v4**]
 
 This service provider adds Papertrail as a driver to [Adonis Logger](https://adonisjs.com/docs/4.1/logger).
