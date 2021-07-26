@@ -4,7 +4,7 @@
 
 Version [for **Adonis v4**]
 
-This service provider adds Papertrail as a driver to [Adonis Logger](https://adonisjs.com/docs/4.1/logger).
+This service provider adds [Papertrail](https://papertrailapp.com/start) as a driver to [Adonis Logger](https://adonisjs.com/docs/4.1/logger).
 
 This repo is based from https://github.com/pirmax/adonis-logger-rollbar
 
@@ -39,7 +39,6 @@ papertrail: {
     port : Env.get('PAPERTRAIL_PORT'),
     level: 'info',
     appStart : false, // whether to create log when app is starting
-    logEnv : false // should send env variables when logging
 }
 ```
 
