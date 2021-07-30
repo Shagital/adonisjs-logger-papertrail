@@ -1,4 +1,5 @@
 # Adonis Logger Papertrail <img src="https://papertrailapp.com/favicon.ico" alt="Papertrail icon" width="25px" height="25px">
+![npm](https://img.shields.io/npm/dt/@shagital/adonisjs-logger-papertrail?style=plastic)
 ![npm (scoped)](https://img.shields.io/npm/v/@shagital/adonisjs-logger-papertrail)
 ![NPM](https://img.shields.io/npm/l/@shagital/adonisjs-logger-papertrail)
 
